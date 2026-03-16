@@ -93,3 +93,4 @@ pytest --html=tests/reports/report.html
 ```
 
 - Raw-change detection in `pipelines/raw_data_watcher.py` uses file SHA-256 hashed state in `.pipeline_state.json`.
+---
