@@ -3,7 +3,7 @@ import json
 import os
 from pathlib import Path
 
-watch_file = Path('data/raw/CGD_Raw.csv')
+watch_file = Path('data/raw/CGD_Dataset_before_cleaning.csv')
 state_file = Path('.pipeline_state.json')
 
 
